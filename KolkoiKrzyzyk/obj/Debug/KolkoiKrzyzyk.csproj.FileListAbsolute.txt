@@ -1,0 +1,7 @@
+C:\Users\User\git\KolkoiKrzyzyk\KolkoiKrzyzyk\KolkoiKrzyzyk\bin\Debug\KolkoiKrzyzyk.exe.config
+C:\Users\User\git\KolkoiKrzyzyk\KolkoiKrzyzyk\KolkoiKrzyzyk\bin\Debug\KolkoiKrzyzyk.exe
+C:\Users\User\git\KolkoiKrzyzyk\KolkoiKrzyzyk\KolkoiKrzyzyk\bin\Debug\KolkoiKrzyzyk.pdb
+C:\Users\User\git\KolkoiKrzyzyk\KolkoiKrzyzyk\KolkoiKrzyzyk\obj\Debug\KolkoiKrzyzyk.csproj.AssemblyReference.cache
+C:\Users\User\git\KolkoiKrzyzyk\KolkoiKrzyzyk\KolkoiKrzyzyk\obj\Debug\KolkoiKrzyzyk.csproj.CoreCompileInputs.cache
+C:\Users\User\git\KolkoiKrzyzyk\KolkoiKrzyzyk\KolkoiKrzyzyk\obj\Debug\KolkoiKrzyzyk.exe
+C:\Users\User\git\KolkoiKrzyzyk\KolkoiKrzyzyk\KolkoiKrzyzyk\obj\Debug\KolkoiKrzyzyk.pdb
